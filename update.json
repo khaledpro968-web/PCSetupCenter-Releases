@@ -1,0 +1,7 @@
+{
+  "latestVersion": "1.1.2",
+  "releasePageUrl": "https://github.com/khaledpro968-web/PCSetupCenter-Releases/releases/tag/v1.1.2",
+  "downloadUrl": "https://github.com/khaledpro968-web/PCSetupCenter-Releases/releases/download/v1.1.2/PCSetupCenter-Setup-1.1.2.exe",
+  "releaseNotes": "ربط فحص تحديث PC Setup Center بمصدر GitHub عام، مع تحسين التحقق من Manifest ومعالجة أخطاء الاتصال بأمان.",
+  "sha256": "805081B12F5CFE572978BDBD4A24691AFA37E8C49C51A3706B69482E96EC86CD"
+}
