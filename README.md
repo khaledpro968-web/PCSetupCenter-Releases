@@ -1,2 +1,3 @@
-# PCSetupCenter-Releases
-Official releases and update metadata for PC Setup Center.
+# PC Setup Center Releases
+
+This repository hosts official release files and update metadata for PC Setup Center.
