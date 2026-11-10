@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.1.4",
-  "releasePageUrl": "https://github.com/khaledpro968-web/PCSetupCenter-Releases/releases/tag/v1.1.4",
-  "downloadUrl": "https://github.com/khaledpro968-web/PCSetupCenter-Releases/releases/download/v1.1.4/PCSetupCenter-Setup-1.1.4.exe",
-  "releaseNotes": "تحسين تجربة تحديث PC Setup Center بحيث يبدأ تنزيل المثبت مباشرة، مع تحسينات واستقرار عام.",
-  "sha256": "F8F2DB244C326E8F085B0B299F3F1D1D9C4B0C5C3DDCBC4CB7137F040B027507"
+  "latestVersion": "1.1.9",
+  "releasePageUrl": "https://github.com/khaledpro968-web/PCSetupCenter-Releases/releases/tag/v1.1.9",
+  "downloadUrl": "https://github.com/khaledpro968-web/PCSetupCenter-Releases/releases/download/v1.1.9/ZAD-Setup-1.1.9.exe",
+  "releaseNotes": "تنزيل التحديث والتحقق من سلامته داخل البرنامج، والتحقق من توقيع مثبّت Avast، ومهلة قصوى لعمليات التثبيت، وحفظ آمن للإعدادات، مع تحسينات في الاستقرار.",
+  "sha256": "521BCE668AA0A7C1FBC23180A5C5B470DDD451A3AE1DBAE3743C39B04A55DD93"
 }
